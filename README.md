@@ -1,14 +1,14 @@
 ## 👋 Hello, there!
 
-I'm **Cleison Freitas**, a PHP developer by trade building my career on high-performance scalable application development.<br>
+#### I'm **Cleison Freitas**, a PHP developer by trade building my career on high-performance scalable application development.<br>
 
-I am skilled in writing unambiguous and organized code to implement back-end solutions with **Laravel** framework effectively.<br>
+#### I am skilled in writing unambiguous and organized code to implement back-end solutions with **Laravel** framework effectively.<br>
 
-In addition to my backend focus, I also have a solid frontend knowledge of **TypeScript**, **React** and **Tailwind CSS**, which helps me create full-stack solutions with great user experience from front to back.<br>
+#### In addition to my backend focus, I also have a solid frontend knowledge of **TypeScript**, **React** and **Tailwind CSS**, which helps me create full-stack solutions with great user experience from front to back.<br>
 
-I love modern technologies and try to implement them . Therefore, I build modern applications – responsive and user-friendly<br>
+#### I love modern technologies and try to implement them . Therefore, I build modern applications – responsive and user-friendly<br>
 
-Let’s connect and explore how we can bring innovative ideas to life together! 🌐🚀
+#### Let’s connect and explore how we can bring innovative ideas to life together! 🌐🚀
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleison-freitas-8a00b474/)
