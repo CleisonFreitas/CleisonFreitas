@@ -1,31 +1,80 @@
-## 👋 Hello, there!
+# 👋 Hello, there!  
 
-#### I'm **Cleison Freitas**, a PHP developer by trade building my career on high-performance scalable application development.<br>
+#### I'm **Cleison Freitas**, a PHP and JavaScript developer passionate about building high-performance and scalable applications.<br>  
 
-#### I am skilled in writing unambiguous and organized code to implement back-end solutions with **Laravel** framework effectively.<br>
+#### I specialize in backend development with **Laravel**, **Node.js**, and **NestJS**, crafting clean and efficient solutions that scale.<br>  
 
-#### In addition to my backend focus, I also have a solid frontend knowledge of **TypeScript**, **React** and **Tailwind CSS**, which helps me create full-stack solutions with great user experience from front to back.<br>
+#### On the frontend side, I have solid experience with **TypeScript**, **React**, and **Tailwind CSS**, allowing me to deliver full-stack applications with seamless user experiences.<br>  
 
-#### I love modern technologies and try to implement them . Therefore, I build modern applications – responsive and user-friendly<br>
+#### I love exploring modern technologies and bringing them into my projects, creating applications that are responsive, user-friendly, and future-proof.<br>  
 
-#### Let’s connect and explore how we can bring innovative ideas to life together! 🌐🚀
+#### Let’s connect and build innovative ideas together! 🌐🚀  
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleison-freitas-8a00b474/)  
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CleisonFreitasCode)  
+[![Medium(Soon!)](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](#)  
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleison-freitas-8a00b474/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CleisonFreitasCode)
-[![Medium(Soon!)](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://)
+---
 
-![Cleison GitHub stats](https://github-readme-stats.vercel.app/api?username=CleisonFreitas&show_icons=true&theme=synthwave)
+## 💼 Technologies & Experience  
 
+### 🚀 Frontend  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45" height="45"/>
+</p>  
 
-# 💼 Technologies & Experience
+### ⚡ Backend  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="45" height="45"/>
+</p>  
 
-| Category              | Technologies & Proficiency |
-|-----------------------|----------------------------|
-| **Frontend**          | ![HTML5](https://img.shields.io/badge/HTML5-70%25-orange) ![CSS3](https://img.shields.io/badge/CSS3-60%25-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow) ![TypeScript](https://img.shields.io/badge/TypeScript-70%25-lightblue) ![React](https://img.shields.io/badge/React-85%25-blueviolet) ![Flutter](https://img.shields.io/badge/Flutter-45%25-teal) |
-| **Backend**           | ![Laravel](https://img.shields.io/badge/Laravel-75%25-red) ![PHP](https://img.shields.io/badge/PHP-80%25-purple) |
-| **Database Management** | ![MySQL](https://img.shields.io/badge/MySQL-70%25-blue) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-60%25-green) ![MongoDB](https://img.shields.io/badge/MongoDB-40%25-brightgreen) |
+### 🗄️ Database  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
+</p>  
 
+---
+
+## 📊 GitHub Stats  
+
+![Cleison GitHub stats](https://github-readme-stats.vercel.app/api?username=CleisonFreitas&show_icons=true&theme=synthwave)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CleisonFreitas&layout=compact&theme=synthwave)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CleisonFreitas&theme=synthwave)  
+
+---
+
+## 🛠️ My Tech Stack Roadmap  
+
+```mermaid
+graph TD;
+    A[Frontend] --> B[HTML5/CSS3/JS]
+    A --> C[TypeScript]
+    A --> D[React / Tailwind]
+    A --> E[Flutter]
+
+    F[Backend] --> G[PHP - Laravel]
+    F --> H[Node.js]
+    F --> I[NestJS]
+
+    J[Databases] --> K[MySQL]
+    J --> L[PostgreSQL]
+    J --> M[MongoDB]
+
+    B --> A
+    G --> F
+    K --> J
+```
 
 ## 📫 Contact Me
 ### 📧: cleison.npi@gmail.com
