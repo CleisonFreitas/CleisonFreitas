@@ -56,18 +56,18 @@
   <a href="https://www.linkedin.com/in/cleison-freitas-8a00b474/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.youtube.com/channel/UC4ToE4ECz0rpfSa2y5BqyHw" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
+
   <a href="https://medium.com/@cleison.npi" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
   </a>
 </div>
 
-<hr />
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CleisonFreitas/CleisonFreitas/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CleisonFreitas/CleisonFreitas/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CleisonFreitas/CleisonFreitas/output/pacman-contribution-graph.svg">
 </picture>
+
+###
