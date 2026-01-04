@@ -1,77 +1,77 @@
-# 👋 Hello, there!  
+<br clear="both">
 
-#### I'm **Cleison Freitas**, a PHP and JavaScript developer passionate about building high-performance and scalable applications.<br>  
+<h1 align="left">👨‍💻 Cleison Freitas</h1>
 
-#### I specialize in backend development with **Laravel**, **Node.js**, and **NestJS**, crafting clean and efficient solutions that scale.<br>  
+###
 
-#### On the frontend side, I have solid experience with **TypeScript**, **React**, and **Tailwind CSS**, allowing me to deliver full-stack applications with seamless user experiences.<br>  
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=30&section=footer&reversal=false&text=Software%20Development%20%7C%20Laravel%20%7C%20Flutter%20%7C%20VueJS%20%7C%20ReactJS%20%7C%20AWS&fontSize=20&fontColor=FFFFFF&fontAlign=37&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
 
-#### I love exploring modern technologies and bringing them into my projects, creating applications that are responsive, user-friendly, and future-proof.<br>  
+###
 
-#### Let’s connect and build innovative ideas together! 🌐🚀  
+<h2 align="left">💻 About Me</h2>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleison-freitas-8a00b474/)  
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CleisonFreitasCode)  
-[![Medium(Soon!)](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](#)  
+###
 
----
+<p align="left">I’m Cleison Freitas, a Senior Full-Stack Software Engineer focused on building scalable, high-performance systems.<br><br>I specialize in backend development with PHP (Laravel), Java, and NestJS, and also build web and mobile applications using TypeScript, React, and Flutter. I have strong experience with AWS, CI/CD pipelines, and cloud-native architectures.<br><br>I value clean architecture, scalability, and long-term maintainability, and I enjoy solving complex problems with pragmatic, well-engineered solutions.<br><br>🔗 Portfolio: https://my-portfolio-topaz-sigma-97.vercel.app/en</p>
 
-## 💼 Technologies & Experience  
+###
 
-### 🚀 Frontend  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="45" height="45"/>
-</p>  
+<h2 align="left">Skills & Technologies</h2>
 
-### ⚡ Backend  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
-</p> 
+###
 
-### 🗄️ Database  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
-</p>  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+</div>
 
----
+###
 
-## 📊 GitHub Stats  
+<h2 align="left">Social Medias</h2>
 
-![Cleison GitHub stats](https://github-readme-stats.vercel.app/api?username=CleisonFreitas&show_icons=true&theme=synthwave)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CleisonFreitas&layout=compact&theme=synthwave)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CleisonFreitas&theme=synthwave)  
+###
 
----
+<div align="left">
+  <a href="https://www.linkedin.com/in/cleison-freitas-8a00b474/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/channel/UC4ToE4ECz0rpfSa2y5BqyHw" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://medium.com/@cleison.npi" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  </a>
+</div>
 
-## 🛠️ My Tech Stack Roadmap  
+###
 
-```mermaid
-graph TD;
-    A[Frontend] --> B[HTML5/CSS3/JS]
-    A --> C[TypeScript]
-    A --> D[React / Tailwind]
-    A --> E[Flutter]
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CleisonFreitas/CleisonFreitas/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CleisonFreitas/CleisonFreitas/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CleisonFreitas/CleisonFreitas/output/pacman-contribution-graph.svg">
+</picture>
 
-    F[Backend] --> G[PHP - Laravel]
-    F --> H[Node.js]
-    F --> I[NestJS]
-
-    J[Databases] --> K[MySQL]
-    J --> L[PostgreSQL]
-    J --> M[MongoDB]
-
-    B --> A
-    G --> F
-    K --> J
-```
-
-## 📫 Contact Me
-### 📧: cleison.npi@gmail.com
+###
