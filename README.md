@@ -12,7 +12,22 @@
 
 ###
 
-<p align="left">I’m Cleison Freitas, a Senior Full-Stack Software Engineer focused on building scalable, high-performance systems.<br><br>I specialize in backend development with PHP (Laravel), Java, and NestJS, and also build web and mobile applications using TypeScript, React, and Flutter. I have strong experience with AWS, CI/CD pipelines, and cloud-native architectures.<br><br>I value clean architecture, scalability, and long-term maintainability, and I enjoy solving complex problems with pragmatic, well-engineered solutions.<br><br>🔗 Portfolio: https://my-portfolio-topaz-sigma-97.vercel.app/en</p>
+HTML
+<p align="left">
+  I'm Cleison Freitas, a Senior Full-Stack Software Engineer focused on designing and building scalable, reliable, and high-performance applications.
+
+  <br><br>
+
+  My expertise spans backend engineering with Java, Spring Boot, PHP, Laravel, and NestJS, as well as frontend and mobile development with TypeScript, React, and Flutter. I also work with AWS, CI/CD pipelines, and cloud infrastructure to build and deliver robust software solutions.
+
+  <br><br>
+
+  I'm passionate about software architecture, clean code, system design, and engineering best practices. I focus on building maintainable solutions, improving system reliability, and solving complex technical challenges with pragmatic, thoughtful engineering.
+
+  <br><br>
+
+  I believe great software is not just about writing code — it's about making sound technical decisions, understanding business needs, and building systems that evolve with them.
+</p>🔗 Portfolio: https://cfreitasdev.com.br/en</p>
 
 ###
 
@@ -20,31 +35,15 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
+🛠️ Tech Stack
+
+Backend <div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="38" alt="Java" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="38" alt="Spring Boot" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="38" alt="PHP" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="38" alt="Laravel" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="38" alt="NestJS" /> </div>
+
+Frontend & Mobile <div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="38" alt="TypeScript" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" alt="React" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="38" alt="Vue.js" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="38" alt="Flutter" /> </div>
+
+Databases <div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="38" alt="PostgreSQL" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38" alt="MySQL" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="38" alt="MongoDB" /> </div>
+
+Cloud & Infrastructure <div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="38" alt="AWS" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38" alt="Docker" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="38" alt="Linux" /> </div>
 
 ###
 
