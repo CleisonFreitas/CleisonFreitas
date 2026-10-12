@@ -11,24 +11,21 @@
 <h2 align="left">💻 About Me</h2>
 
 ###
-
-HTML
 <p align="left">
   I'm Cleison Freitas, a Senior Full-Stack Software Engineer focused on designing and building scalable, reliable, and high-performance applications.
 
-  <br><br>
+  <br>
 
   My expertise spans backend engineering with Java, Spring Boot, PHP, Laravel, and NestJS, as well as frontend and mobile development with TypeScript, React, and Flutter. I also work with AWS, CI/CD pipelines, and cloud infrastructure to build and deliver robust software solutions.
 
-  <br><br>
+  <br>
 
   I'm passionate about software architecture, clean code, system design, and engineering best practices. I focus on building maintainable solutions, improving system reliability, and solving complex technical challenges with pragmatic, thoughtful engineering.
 
-  <br><br>
+  <br>
 
   I believe great software is not just about writing code — it's about making sound technical decisions, understanding business needs, and building systems that evolve with them.
 </p>🔗 Portfolio: https://cfreitasdev.com.br/en</p>
-
 ###
 
 <h2 align="left">Skills & Technologies</h2>
