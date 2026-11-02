@@ -16,7 +16,7 @@
 
   <br>
 
-  My expertise spans backend engineering with Java, Spring Boot, PHP, Laravel, and NestJS, as well as frontend and mobile development with TypeScript, React, and Flutter. I also work with AWS, CI/CD pipelines, and cloud infrastructure to build and deliver robust software solutions.
+  My expertise spans backend engineering with Java, Spring Boot, PHP, Laravel, Python e FastAPI, as well as frontend and mobile development with TypeScript, React, and Flutter. I also work with AWS, CI/CD pipelines, and cloud infrastructure to build and deliver robust software solutions.
 
   <br>
 
